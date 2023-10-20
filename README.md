@@ -1,5 +1,5 @@
 # Pig Game
-> This is simple website game, based on JavaScript language
+> This is simple website game, based on JavaScript language.
 > Live demo [_here_](https://piggameala.netlify.app/).
 
 
